@@ -1,4 +1,4 @@
-# TIBCO (c) LogLogic LMI JDBC Driver
+# JDBC Driver for TIBCO LogLogic® Advanced Features
 
 ## Description
 
