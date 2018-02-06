@@ -46,7 +46,6 @@
                             <shadedClassifierName>single</shadedClassifierName>
                         </configuration>
                     </execution>
-
                 </executions>
             </plugin>
         </plugins>

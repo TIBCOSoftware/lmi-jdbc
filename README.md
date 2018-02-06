@@ -1,4 +1,4 @@
-# JDBC Driver for TIBCO LogLogic® Advanced Features
+# JDBC Driver for TIBCO LogLogic(R) Advanced Features
 
 ## Description
 

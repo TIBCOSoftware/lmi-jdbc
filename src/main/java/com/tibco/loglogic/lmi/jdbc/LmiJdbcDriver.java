@@ -46,7 +46,7 @@ public class LmiJdbcDriver
 
     static final int JDBC_VERSION_MINOR = 1;
 
-    private static final String DRIVER_NAME = "TIBCO LogLogic LMI JDBC Driver";
+    private static final String DRIVER_NAME = "JDBC Driver for TIBCO LogLogic(R) Advanced Features";
 
     private static final String DRIVER_VERSION = VERSION_MAJOR + "." + VERSION_MINOR;
 
