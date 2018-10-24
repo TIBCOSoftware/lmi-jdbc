@@ -4,7 +4,7 @@
 
 This JDBC driver aims at querying log data stored in LMI appliances using the same query language as the advanced search feature, while retrieving the results in a standard JDBC fashion.
 
-The driver is self-contained in a single JAR file: lmi-jdbc-driver-1.0-single.jar that should be placed at the relevant location depending on the application using it.
+The driver is self-contained in a single JAR file: lmi-jdbc-driver-1.1-single.jar that should be placed at the relevant location depending on the application using it.
 
 ## Prerequisites
 
